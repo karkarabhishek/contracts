@@ -4,7 +4,7 @@
 
 Ethereum smart contracts that power the [Matic Network](https://matic.network).
 
-### Install dependencies with
+### Install dependency with
 
 ```
 npm install
